@@ -16,4 +16,5 @@ Here is excatly what will be covered:
 4. **Advanced Evaluation Considerations:** Class Imbalanaces, Calibration of Probablistic Models, Interpreting/Visualising Model Results
 5. **End-to-end ML Project:** Here is we'll go through an end-to-end image classification project incorporating all the steps of data preparation, modeling, and most importantly the model evaluation techniques covered here
 
-Find the notebooks coveing all the key topics detailed above in the `notes` folder. All images used across notebooks can be found in the `assets` folder
+## Acknowledgement
+These notes have been prepared by [Cyril Michino](https://cyril.michino.co.ke). If you are interested in reviewing and improving upon these notes, kindly contact me or simply raise an issue or PR request.
